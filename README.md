@@ -1,10 +1,6 @@
 **🔗 Links do Projeto**
-• 🎬 **Vídeo de Demonstração:** [Link do Vídeo]
-• 💻 **Repositório da Aplicação (Microsserviços):** [Link do Repo]
-• ☁️ **Repositório da Infraestrutura (Kubernetes/Cloud):** [Link do Repo]
-• 🗺️ **Miro Board (Arquitetura):** [Link do Miro]
-
-!image.png
+• 🎬 **Vídeo de Demonstração:** [\[Link do Vídeo\]](https://www.youtube.com/watch?v=U7REFyUZ9BQ)
+• 💻 **Repositório da Aplicação (Microsserviços):** [\[Link do Repo\]](https://github.com/Oh20/FIAP---TechchallengeF2/blob/main/azure-pipelines.yml)
 
 ## 📌 Visão Geral
 
