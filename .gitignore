@@ -1,0 +1,16 @@
+# Segredos / credenciais locais (NUNCA versionar)
+.env/
+*.env
+*-secret.yaml
+!*secret.example.yaml
+
+# Python
+__pycache__/
+*.pyc
+
+# Go
+*.exe
+
+# Sistema
+.DS_Store
+Thumbs.db
